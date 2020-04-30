@@ -22,7 +22,7 @@ Developing skills in Artificial Intelligence (AI) to apply that knowledge in the
 
 ## Projetos:
 
-**IA na Detecção do Câncer de Mama:** https://bit.ly/3aQRgoj 
+**Inteligência Artificial na Detecção do Câncer de Mama:** https://bit.ly/3aQRgoj 
 
 
 
