@@ -15,7 +15,7 @@ Developing skills in Artificial Intelligence (AI) to apply that knowledge in the
 
 ---
 
-**Links:**
+**Contato:**
 * [LinkedIn](https://www.linkedin.com/in/nicole-goldschmidt)
 
 ---
