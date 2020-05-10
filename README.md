@@ -2,7 +2,7 @@
 
 ###Em desenvolvimento
 
-Aqui você encontra os *notebooks* dos meus projetos nas áreas de Data Science, Machine Learning e Deep Learning.
+Aqui você encontra os *notebooks* dos meus projetos nas áreas de Data Science e Machine Learning.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nicolegold/Portfolio_DataScience/master/ImagemPortfolio.png" >
