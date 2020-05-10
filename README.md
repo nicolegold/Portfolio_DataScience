@@ -19,8 +19,14 @@ Developing skills in Artificial Intelligence (AI) to apply that knowledge in the
 * [LinkedIn](https://www.linkedin.com/in/nicole-goldschmidt)
 
 ---
+**Cursos de dados com repositório no GitHub:**
+* [Quarantena Dados by Alura](https://github.com/nicolegold/QuarantenaDadosAlura)
+* [Data Science Do Zero by Qoda](https://github.com/nicolegold/DataScienceDoZero)
+* [Maratona Data Science by Qoda](https://github.com/nicolegold/MaratonaDataScience)
 
-## Projetos:
+---
+
+## Projetos: em andamento
 
  
 
