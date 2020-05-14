@@ -11,7 +11,7 @@ Aqui você encontra os *notebooks* dos meus projetos nas áreas de Data Science 
 # Nicole Goldschmidt
 <sub>*Biomedical Engineering student | Data Science and Machine Learning Enthusiast*</sub>
 
-Developing skills in Artificial Intelligence (AI) to apply that knowledge in the health area.
+Developing skills in Artificial Intelligence (AI) to apply that in the health area.
 
 ---
 
